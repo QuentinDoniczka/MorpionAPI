@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RoDrx3ESNMo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\donic\\RiderProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\donic\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\donic\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
