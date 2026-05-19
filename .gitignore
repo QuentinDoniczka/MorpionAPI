@@ -1,0 +1,61 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ASP.NET / Web
+wwwroot/lib/
+
+# Publish output
+publish/
+
+# Test results
+TestResults/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Temporary files
+*.tmp
+*.temp
+
+# Runtime files
+*.pid
+*.seed
+
+# Generated files
+Generated/
+
+# SQLite
+*.db
+*.sqlite
+
+# JetBrains Rider caches
+*.sln.iml
