@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.DTOs;
 using WebApplication1.Models;
@@ -7,6 +8,8 @@ namespace WebApplication1.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
+[ProducesResponseType(StatusCodes.Status401Unauthorized)]
 public class BoardController : ControllerBase
 {
     private readonly BoardService _boardService;
